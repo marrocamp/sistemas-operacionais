@@ -1,9 +1,13 @@
 sistemas operacionais favoritos de hackers
 
 Kali Linux: https://www.kali.org/downloads/
+
 BackBox: https://www.backbox.org/downloads  
+
 Parrot Security OS: https://www.parrotsec.org/download/ 
+
 Live Hacking OS: http://www.livehacking.com/live-hacking-cd/download-live-hacking/
+
 DEFT Linux: http://www.deftlinux.net/download/
 Samurai Web Testing Framework: https://sourceforge.net/projects/samurai/files/
 Network Security Toolkit: https://sourceforge.net/projects/nst/
