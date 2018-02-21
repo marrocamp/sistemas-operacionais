@@ -1,8 +1,8 @@
 sistemas operacionais favoritos de hackers
 
-Kali Linux: https://www.kali.org/downloads/ - Lista de Ferramentas- https://tools.kali.org/tools-listing
+Kali Linux: https://www.kali.org/downloads/
 BackBox: https://www.backbox.org/downloads  
-Parrot Security OS: https://www.parrotsec.org/download/ - Sources.list - https://docs.parrotsec.org/doku.php/mirrors-list 
+Parrot Security OS: https://www.parrotsec.org/download/ 
 Live Hacking OS: http://www.livehacking.com/live-hacking-cd/download-live-hacking/
 DEFT Linux: http://www.deftlinux.net/download/
 Samurai Web Testing Framework: https://sourceforge.net/projects/samurai/files/
@@ -12,16 +12,16 @@ NodeZero: http://www.nodezero-linux.org/downloads
 Pentoo: http://www.pentoo.ch/download/
 BlackBuntu: http://www.pen-tests.com/blackbuntu-download.html
 GnackTrack: http://www.gnacktrack.co.uk/download.php
-Cyborg Hawk Linux:  http://cyborg.ztrela.com/cyborg-essentials/ - Lista de Ferramentas - http://cyborg.ztrela.com/tools/
-SIMP: https://simp-project.com/ - SIMP criada pela NSA (NationalSecurityAgency) -disponível para o Red Hat Enterprise Linux e o CentOS.
-Knoppix STD: https://s-t-d.org/download.html - Lista de Ferramentas - https://s-t-d.org/tools.html
-Weakerthan: http://www.weaknetlabs.com/p/weaknet-linux.html - Saber Mais - https://weaknetlabs.com/warcarrier/
-BlackArch Linux: https://blackarch.org/downloads.html - Lista de Ferramentas - https://blackarch.org/tools.html
-Matriux Linux: http://www.matriux.com/index.php?page=download - Lista de Ferramentas - http://www.matriux.com/index.php?page=arsenal
+Cyborg Hawk Linux:  http://cyborg.ztrela.com/cyborg-essentials/
+SIMP: https://simp-project.com/ - SIMP criada pela NSA  -disponível para o Red Hat Enterprise Linux e o CentOS.
+Knoppix STD: https://s-t-d.org/download.html 
+Weakerthan: http://www.weaknetlabs.com/p/weaknet-linux.html 
+BlackArch Linux: https://blackarch.org/downloads.html 
+Matriux Linux: http://www.matriux.com/index.php?page=download 
 Dracos Linux: https://dracos-linux.org/ 
 Fedora Security Lab: https://labs.fedoraproject.org/en/security/
-Caine: https://www.caine-live.net/ - Lista de Ferramentas - https://www.caine-live.net/page11/page11.html
-ArchStrike: https://archstrike.org/ - wiki - https://archstrike.org/wiki
+Caine: https://www.caine-live.net/ - 
+ArchStrike: https://archstrike.org/ 
 Wifislax: http://www.wifislax.com/
 Wifiway: http://www.wifiway.org/
 Helix: http://www.e-fense.com/products.php
